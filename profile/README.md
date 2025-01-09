@@ -1,12 +1,13 @@
 # CAP 379 - Artificial Intelligence Laboratory - Spring 2025 - Lovely Professional University
 ### **Course Instructor: Tanzeela Javid Kaloo | Assistant Professor-LPU**
----
 
+---
 ### **Course Outcomes (COs):**  
 **CO1:** Discuss the role of Python and Prolog in Artificial Intelligence.  
 **CO2:** Apply fundamental principles of AI to solve problems involving inference, perception, knowledge representation, and learning.  
 **CO3:** Demonstrate an understanding of AI techniques through intelligent agents, expert systems, neural networks, and other machine learning models.  
 **CO4:** Analyze and implement solutions for datasets using machine learning algorithms and tools such as Weka.  
+
 ---
 ### **Credit Distribution:**  
 **Practical Hours (P):** 2  
