@@ -12,6 +12,7 @@
 ### **Credit Distribution:**  
 **Practical Hours (P):** 2  
  **Credits:** 1  
+
 ---
 ### **Topics Covered:**  
 #### **Prolog Programming for AI:**  
