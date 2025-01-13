@@ -57,11 +57,12 @@
    - Applying classification and clustering techniques on datasets.  
 ---
 ### **Tools and Programming Frameworks/Libraries:**  
-- **Programming Languages:** Python, Prolog.  
+- **Programming Languages:** Python 3.10.11, Prolog 9.2.9.  
 - **Libraries:** scikit-learn, NumPy, Pandas.  
 - **Knowledge Representation Tools:** SWI-Prolog.  
 - **Search and Problem-Solving Algorithms:** Custom Implementations.  
-- **Machine Learning Tools:** Weka.  
+- **Machine Learning Tools:** Weka 3.8.
+- **Version Control:** Git- 2.47.1
 - **Visualization Tools:** Matplotlib, Seaborn.
 ---
 ### **Textbook:**  
